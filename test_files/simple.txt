@@ -1,0 +1,6 @@
+<$> = <Sentence> ;
+<Sentence> = The <Noun> <Verb> | The <Noun> <Verb> <Adverb> ;
+<Noun> = dog | cat | bird ;
+<Verb> = runs | flies | soars | codes | drives ;
+<Adverb> = quickly | slowly | rabidly | steadily ;
+
